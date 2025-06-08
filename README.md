@@ -3,7 +3,7 @@
 
 ## opp-003 
 
-Data generated as of https://github.com/liamt19/AwesomeOpossum/pull/9, before fixing the exploration scaling logarithm base.
+Data generated as of https://github.com/liamt19/AwesomeOpossum/pull/9, before fixing the exploration scaling logarithm base. 512 HL.
 ```
 Node limit:   35,000
 Depth limit:  14
